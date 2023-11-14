@@ -1,7 +1,8 @@
 # Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/PORTFOLIO-%23E43526?style=flat-square&logo=readdotcv&logoColor=white&link=https%3A%2F%2Fglowing-sawine-7a9024.netlify.app%2F)  
-![Static Badge](https://img.shields.io/badge/Intercative%20Profile-%230071C5?style=flat-square&logo=nintendo3ds&logoColor=white&link=https%3A%2F%2Fglowing-sawine-7a9024.netlify.app%2F)
+[![Static Badge](https://img.shields.io/badge/PORTFOLIO-%23E43526?style=flat-square&logo=readdotcv&logoColor=white)](https://glowing-sawine-7a9024.netlify.app/)
+[![Static Badge](https://img.shields.io/badge/Intercative%20Profile-%230071C5?style=flat-square&logo=nintendo3ds&logoColor=white)](https://glowing-sawine-7a9024.netlify.app/)
+
 
 
 <!--
