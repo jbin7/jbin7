@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/PORTFOLIO-%23E43526?style=flat-square&logo=readdotcv&logoColor=white&link=https%3A%2F%2Fglowing-sawine-7a9024.netlify.app%2F)  
+![Static Badge](https://img.shields.io/badge/Intercative%20Profile-%230071C5?style=flat-square&logo=nintendo3ds&logoColor=white&link=https%3A%2F%2Fglowing-sawine-7a9024.netlify.app%2F)
+
+
+<!--
 Language
 
 ![Static Badge](https://img.shields.io/badge/Javscript-grey?logo=javascript)
@@ -24,7 +29,7 @@ etc
 
 ![Static Badge](https://img.shields.io/badge/docker-grey?logo=docker)
 ![Static Badge](https://img.shields.io/badge/AWS-grey?logo=amazonaws&logoColor=%23FF9900)
-
+--->
 
 
 
